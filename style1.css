@@ -1,0 +1,68 @@
+body {
+    text-align: left;
+    font-size: 30px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+h1 {
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+p {
+    background-color: lightskyblue;
+    padding-left: 300px;
+    padding-right: 250px;
+}
+
+.photo {
+    float: left;
+    padding-right: 25px;
+}
+
+hr {
+    border-style: solid;
+    color: black;
+}
+nav ul {
+    background-color: lightskyblue;
+    display: inline;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li {
+    background-color: lightskyblue;
+    display: inline;
+    margin-right: 20px;
+    margin-right: 10px;
+    justify-content: space-around;
+}
+nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    
+}
+
+nav h1 {
+    font-size: 24px;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+nav {
+    background-color: lightskyblue;
+    color: black;
+}
